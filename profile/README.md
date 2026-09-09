@@ -40,8 +40,6 @@ pip install xpoz-cli
 brew install XPOZpublic/xpoz/xpoz-cli
 ```
 
-Want to test before signing up? A [trial token](https://docs.xpoz.ai/trial) works for 5 days with no signup and no credit card.
-
 ## What people use Xpoz for
 
 - **Social listening and brand monitoring**: track keywords, hashtags, and accounts across all four platforms; new matching posts are collected automatically.
